@@ -1,7 +1,9 @@
 # Hi there 👋 I'm Rabiah!
 
-💻 B.Tech IT | 🌱 Currently learning Java & Web Dev  
+💻 B.Tech IT Student.
+🌱 Currently learning Java & Web Dev. 
 🚀 Passionate about DSA & growing in tech.
+
 
 ### 🛠️ Languages & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
