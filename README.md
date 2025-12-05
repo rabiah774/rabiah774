@@ -27,14 +27,11 @@
 
 ## 📊 GitHub Stats & Activity
 <div align="center">
-
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiah774&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20)
- <br/>
-
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiah774&layout=compact&theme=tokyonight&hide_border=true&border_radius=20)
- <br/>
-
- ![GitHub Streak](https://streak-stats.demolab.com?user=rabiah774&theme=tokyonight&hide_border=true&border_radius=20)
+  
+ ![GitHub Streak](https://streak-stats.demolab.com?user=rabiah774&theme=tokyonight&hide_border=true&border_radius=20) 
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiah774&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20)
+ 
 
 </div>
 
@@ -42,7 +39,8 @@
 
 <div align="center">
 
- ![snake gif](https://github.com/rabiah774/rabiah774/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rabiah774/rabiah774/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
