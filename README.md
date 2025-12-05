@@ -29,9 +29,11 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiah774&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=rabiah774&show_icons=true&theme=tokyonight" height="180" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiah774&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiah774&layout=compact&theme=tokyonight" height="180" />
 
   
  ![GitHub Streak](https://streak-stats.demolab.com?user=rabiah774&theme=tokyonight&hide_border=true&border_radius=20) 
@@ -43,8 +45,7 @@
 
 <div align="center">
 
-
-
+![snake gif](https://raw.githubusercontent.com/rabiah774/rabiah774/output/github-contribution-grid-snake.svg)
 
 </div>
 
