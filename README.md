@@ -26,12 +26,16 @@
 </div>
 
 ## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 <div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiah774&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiah774&layout=compact&theme=tokyonight&hide_border=true)
+
   
  ![GitHub Streak](https://streak-stats.demolab.com?user=rabiah774&theme=tokyonight&hide_border=true&border_radius=20) 
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiah774&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20)
- 
 
 </div>
 
