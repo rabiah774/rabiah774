@@ -12,7 +12,9 @@
 - ⚡ Fun fact: **I believe consistency beats perfection!**
 
 ## 🚀 Skills & Tools
+
 <div >
+  
   ![Java](https://img.shields.io/badge/Java-EDB800?style=for-the-badge&logo=openjdk&logoColor=white)
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,6 +27,7 @@
 </div>
 
 ## 📊 GitHub Stats & Activity
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiah774&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20)
@@ -36,13 +39,17 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=rabiah774&theme=tokyonight&hide_border=true&border_radius=20)
 
 </div>
+
 ## 🐍 Contribution Snake
+
 <div align="center">
 
 ![snake gif](https://github.com/rabiah774/rabiah774/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
 ## 🤝 Connect With Me
+
 <div align="center">
 
 <a href="https://github.com/rabiah774" target="_blank">
@@ -50,6 +57,7 @@
 </a>
 
 </div>
+
 ## 💡 Future Goals
 - Build real world websites and deploy them
 - Start contributing to open-source projects
