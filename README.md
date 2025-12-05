@@ -29,11 +29,7 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=rabiah774&show_icons=true&theme=tokyonight" height="180" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiah774&layout=compact&theme=tokyonight" height="180" />
 
   
  ![GitHub Streak](https://streak-stats.demolab.com?user=rabiah774&theme=tokyonight&hide_border=true&border_radius=20) 
