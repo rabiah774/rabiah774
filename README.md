@@ -28,7 +28,9 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rabiah774&theme=tokyonight&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rabiah774&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
 
   
 
