@@ -53,9 +53,10 @@
 
 </div>
 
-## 🧩 Contribution Overview
+## 🚀 Top Repositories
 
-![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiah774&theme=tokyonight)
+![Top Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabiah774&theme=tokyonight)
+
 
 
 
