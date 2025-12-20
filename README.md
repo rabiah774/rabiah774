@@ -33,7 +33,7 @@
 
   
 ## 🔥 GitHub Streak
-<div align="center">
+<div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rabiah774&theme=tokyonight&hide_border=true&border_radius=20)
 
@@ -53,9 +53,10 @@
 
 </div>
 
-## 🚀 Top Repositories
+## 🧩 Contribution Overview
 
-![Top Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabiah774&theme=tokyonight)
+![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiah774&theme=tokyonight)
+
 
 
 ## 🤝 Connect With Me
