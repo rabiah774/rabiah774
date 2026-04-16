@@ -5,7 +5,7 @@
 
 
 ### 🌟 About Me
-- 🔭 I’m currently working on **HTML & CSS mini projects**
+- 🔭 I’m currently working on **HTML,CSS & Javascript mini projects**
 - 🌱 I’m learning **DSA (Java)**
 - 👯 I’m looking to collaborate on **Open Source & Web Projects**
 - 💬 Ask me about **Frontend Development & Git basics**
