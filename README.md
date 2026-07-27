@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rabiah</h1>
-<h3 align="center">Aspiring Web Developer | Learning DSA & Git/GitHub | Passionate to build real projects</h3>
+<h3 align="center">B.Tech IT Student | JAVA. DSA . WEB DEVELOPMENT | Building Projects & preparing for software engineering roles</h3>
 
 
 ### 🌟 About Me
