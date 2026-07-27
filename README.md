@@ -5,11 +5,13 @@
 
 
 ### 🌟 About Me
-- 🔭 I’m currently working on **HTML,CSS & Javascript mini projects**
-- 🌱 I’m learning **DSA (Java)**
-- 👯 I’m looking to collaborate on **Open Source & Web Projects**
-- 💬 Ask me about **Frontend Development & Git basics**
-- ⚡ Fun fact: **I believe consistency beats perfection!**
+🌱 Currently learning Java DSA and Backend Development
+
+💻 Building practical web projects
+
+🚀 Exploring Open Source contributions
+
+📚 Continuously improving problem-solving skills
 
 ## 🚀 Skills & Tools
 
