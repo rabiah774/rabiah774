@@ -1,4 +1,31 @@
+<!-- ================= HEADER ================= -->
 
+<h1 align="center">Hi 👋, I'm Rabiah Mukhtar</h1>
+
+<h3 align="center">
+  B.Tech IT Student | Aspiring Software Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Passionate+about+Software+Development;Learning+Java+%26+Data+Structures;Building+Projects+and+Growing+Every+Day" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rabiah774&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile Views" />
+</p>
+
+---
+## 👩‍💻 About Me
+
+🎓 I'm a B.Tech Information Technology student passionate about software development and problem-solving.
+
+💻 I enjoy building practical applications and exploring new technologies.
+
+🌱 Currently strengthening my Java and DSA skills while exploring Full Stack Development and backend technologies.
+
+🎯 Aspiring Software Developer focused on continuous learning, real-world projects, and open-source contributions.
+
+---
 
 <h1 align="center">Hi 👋, I'm Rabiah</h1>
 <h3 align="center">B.Tech IT Student | JAVA. DSA . WEB DEVELOPMENT | Building Projects & preparing for software engineering roles</h3>
