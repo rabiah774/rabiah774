@@ -66,15 +66,15 @@ Some projects I've worked on:
 
 
 ## 🚀 Top Repositories
-
-![Top Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabiah774&theme=tokyonight)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabiah774&theme=tokyonight"/>
+</div>
 ---
 
 ## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiah774&layout=compact&theme=tokyonight)
-
+ <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiah774&layout=compact&theme=tokyonight"/>
+ </div>
 ---
 
 
