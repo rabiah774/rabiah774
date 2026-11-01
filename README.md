@@ -63,14 +63,41 @@ Some projects I've worked on:
 </p>
 
 ---
-## 📈 Contribution Activity
+
+
+## 🚀 Top Repositories
+
+![Top Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabiah774&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiah774&layout=compact&theme=tokyonight)
+
+---
+
+
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabiah774&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rabiah774&theme=tokyo-night&hide_border=true&area=true"
+    alt="Rabiah's GitHub Activity Graph"
+  />
 </p>
 
 ---
 
+## 🐍 Contribution 
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/rabiah774/rabiah774/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -78,27 +105,6 @@ Some projects I've worked on:
 </p>
 
 ---
-
-## 🔝 Top Contributed Repository
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rabiah774&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabiah774/rabiah774/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabiah774/rabiah774/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rabiah774/rabiah774/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
 ## 💬 Random Dev Quote
 
 <p align="center">
@@ -106,7 +112,6 @@ Some projects I've worked on:
 </p>
 
 ---
-
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -133,49 +138,7 @@ Some projects I've worked on:
 <p align="center">
   <b>✨ Learning. Building. Improving. One step at a time.</b>
 </p>
-  
-## 🔥 GitHub Streak
-<div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rabiah774&theme=tokyonight&hide_border=true&border_radius=20)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiah774&layout=compact&theme=tokyonight)
-
-
-</div>
-
-
-## 🐍 Contribution 
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/rabiah774/rabiah774/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## 🚀 Top Repositories
-
-![Top Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabiah774&theme=tokyonight)
-
-
-
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/rabiah774" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-## 💡 Future Goals
-- Build real world websites and deploy them
-- Start contributing to open-source projects
-- Learn JavaScript & create full responsive websites
 
 
 
