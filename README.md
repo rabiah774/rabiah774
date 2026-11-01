@@ -27,40 +27,112 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Rabiah</h1>
-<h3 align="center">B.Tech IT Student | JAVA. DSA . WEB DEVELOPMENT | Building Projects & preparing for software engineering roles</h3>
+## 🛠️ Skills & Tools
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode&theme=dark" alt="Skills and Tools" />
+</p>
 
-### 🌟 About Me
-🌱 Currently learning Java DSA and Backend Development
+**Currently Exploring:** React.js, Node.js, Express.js and Backend Development.
 
-💻 Building practical web projects
+---
+## 🚀 Featured Projects
 
-🚀 Exploring Open Source contributions
+Some projects I've worked on:
 
-📚 Continuously improving problem-solving skills
+- 💰 Expense Tracker
+- 📊 Student Budget Planner
+- ✅ To-Do List
+- 🎮 Tic-Tac-Toe
+- 🎂 Birthday Generator
 
-## 🚀 Skills & Tools
+---
 
-<div >
-  
-  ![Java](https://img.shields.io/badge/Java-EDB800?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rabiah774&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiah774&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-</div>
+---
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rabiah774&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
- ## 📊 GitHub Stats
+---
+## 📈 Contribution Activity
 
-![Rabiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiah774&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabiah774&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+</p>
 
+---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rabiah774&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repository
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rabiah774&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabiah774/rabiah774/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabiah774/rabiah774/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rabiah774/rabiah774/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/rabiah774" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🎯 Future Goals
+
+- 📚 Strengthen DSA and problem-solving skills.
+- 💻 Build practical Full Stack applications.
+- 🌍 Contribute to open-source projects.
+- 🚀 Gain industry experience through internships.
+- 🌱 Continuously learn and grow as a Software Developer.
+
+---
+
+<p align="center">
+  <b>✨ Learning. Building. Improving. One step at a time.</b>
+</p>
   
 ## 🔥 GitHub Streak
 <div>
