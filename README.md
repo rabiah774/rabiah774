@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode&theme=dark" alt="Skills and Tools" />
 </p>
 
-**Currently Exploring:** React.js, Node.js, Express.js and Backend Development.
+
 
 ---
 ## 🚀 Featured Projects
@@ -50,10 +50,10 @@ Some projects I've worked on:
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rabiah774&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiah774&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+  
+</div>
 
 ---
 ## 🔥 GitHub Streak
@@ -80,12 +80,12 @@ Some projects I've worked on:
 
 ## 📈 GitHub Activity Graph
 
-<p align="center">
+<div align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=rabiah774&theme=tokyo-night&hide_border=true&area=true"
     alt="Rabiah's GitHub Activity Graph"
   />
-</p>
+</div>
 
 ---
 
